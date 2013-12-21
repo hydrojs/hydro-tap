@@ -19,7 +19,7 @@ Tap.prototype.use = function(hydro) {
   var pass = 0;
   var fail = 0;
 
-  hydro.on('pre:all', function(suite) {
+  hydro.on('pre:all', function() {
     console.log('1..%d', hydro.tests().length);
   });
 
