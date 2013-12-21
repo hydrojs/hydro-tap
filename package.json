@@ -2,6 +2,11 @@
   "name": "hydro-tap",
   "version": "0.0.1",
   "description": "Tap formatter for hydro",
+  "keywords": [
+    "hydroformatter",
+    "hydro",
+    "tap"
+  ],
   "main": "index.js",
   "homepage": "https://github.com/hydrojs/hydro-tap",
   "repository": {
@@ -9,5 +14,8 @@
     "url": "https://github.com/hydrojs/hydro-tap"
   },
   "author": "Veselin Todorov <hi@vesln.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "component": "*"
+  }
 }

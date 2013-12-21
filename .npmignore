@@ -1,8 +1,8 @@
-test
-examples
-coverage
+/test
+/examples
+/coverage
+/build/
+/components/
 *.sock
-.jshintignore
-.jshintrc
 .travis.yml
 CHANGELOG.md

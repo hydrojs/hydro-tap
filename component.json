@@ -1,0 +1,11 @@
+{
+  "name": "hydro-tap",
+  "repo": "hydrojs/hydro-tap",
+  "description": "Tap formatter for hydro",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
