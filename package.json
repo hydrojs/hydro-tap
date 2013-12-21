@@ -1,6 +1,6 @@
 {
   "name": "hydro-tap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tap formatter for hydro",
   "keywords": [
     "hydroformatter",
