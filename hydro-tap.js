@@ -248,7 +248,7 @@ Tap.prototype.use = function(hydro) {
     console.log('# tests ' + (pass + fail));
     console.log('# pass ' + pass);
     console.log('# fail ' + fail);
-    console.log();
+    console.log('');
     console.log(fail ? 'not ok' : 'ok');
   });
 };
